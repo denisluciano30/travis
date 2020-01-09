@@ -3,4 +3,5 @@ node_js:
  - "node"
 
 notifications:
-  email:denis.lopes3012@gmail.com
+  email:
+    - denis.lopes3012@gmail.com
